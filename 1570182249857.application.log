@@ -1,0 +1,7 @@
+
+11:44:00 AM	click	//body[0]/div[0]/div/div[1]/div/bruit-io[0]/a/svg/path 
+	
+11:43:52 AM	error	BRUIT.IO error :, {}	
+11:43:47 AM	click	//body[0]/div[0]/div/div[1]/div/bruit-io[0]/a/svg 
+	
+11:43:44 AM	url	http://127.0.0.1:3000/	
