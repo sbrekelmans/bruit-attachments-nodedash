@@ -1,0 +1,19 @@
+
+10:12:30 AM	click	//body[0]/nav[0]/div[2]/div/div/bruit-io/a 
+	
+10:12:26 AM	click	//body[0]/nav[0]/div[2]/div/div/bruit-io 
+ <a class="bruit-button..."> Feedback!	
+10:12:13 AM	GET 200	https://ltonodedashboard.herokuapp.com/api/generators?order=asc	
+10:12:08 AM	GET =>	/api/generators	
+10:11:09 AM	GET 200	https://ltonodedashboard.herokuapp.com/api/generators?order=asc	
+10:11:08 AM	GET =>	/api/generators	
+10:10:10 AM	GET 200	https://ltonodedashboard.herokuapp.com/api/generators?order=asc	
+10:10:08 AM	GET =>	/api/generators	
+10:09:09 AM	GET 200	https://ltonodedashboard.herokuapp.com/api/generators?order=asc	
+10:09:08 AM	GET =>	/api/generators	
+10:08:10 AM	GET 200	https://ltonodedashboard.herokuapp.com/api/generators?order=asc	
+10:08:07 AM	GET =>	/api/generators	
+10:07:12 AM	log	
+10:07:12 AM	log	
+10:07:12 AM	log	made it sofar	
+10:07:08 AM	url	https://ltonodedashboard.herokuapp.com/	
